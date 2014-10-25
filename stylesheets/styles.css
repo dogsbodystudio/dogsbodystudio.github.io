@@ -2,6 +2,17 @@
 Leap Day for GitHub Pages
 by Matt Graham
 */
+
+#dogtail{
+  position:absolute;
+  top:-34px;
+  left:-128px;
+}
+#doghead{
+  position:absolute;
+  top:-61px;
+  right:-180px;
+}
 @font-face {
   font-family: 'Quattrocento Sans';
   src: url("../fonts/quattrocentosans-bold-webfont.eot");
@@ -688,7 +699,7 @@ header p {
 
 #banner {
   z-index: 100;
-  left: 0;
+  left: 180px;
   right: 50%;
   height: 50px;
   margin-right: -382px;
